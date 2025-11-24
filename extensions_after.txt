@@ -1,0 +1,8 @@
+Extensions AFTER review:
+
+Removed:
+1. K7 WebProtection
+   Reason: Not required on this system, requested broad permissions, installed by external antivirus.
+
+Kept:
+1. Google Docs Offline – Official extension, safe and verified. Only basic permissions.

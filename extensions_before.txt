@@ -1,0 +1,7 @@
+Browser: Google Chrome
+
+Extensions BEFORE review:
+1. Google Docs Offline – Official Google extension. Provides offline editing.
+2. K7 WebProtection – Installed by K7 antivirus. Provides malicious website protection.
+
+Both were detected during initial review.
