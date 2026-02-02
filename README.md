@@ -1,4 +1,4 @@
-# Task 7 – Identify and Remove Suspicious Browser Extensions
+# Identify and Remove Suspicious Browser Extensions
 
 ## 🎯 Objective
 To review all installed browser extensions, inspect their permissions, identify any suspicious or unnecessary ones, and remove them to improve security and privacy.
